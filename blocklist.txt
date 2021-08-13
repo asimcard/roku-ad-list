@@ -41,7 +41,6 @@ raps-perf.ravm.tv
 raps.ravm.tv
 ravm.tv
 richmond.logs.roku.com
-roku.com
 rokutime.com
 rollingwood.logs.roku.com
 rxr.ravm.tv
