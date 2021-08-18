@@ -1,20 +1,13 @@
 ads.roku.com
 amarillo.logs.roku.com
-amoeba-plus.web.roku.com
-amoeba.web.roku.com
-assets.sr.roku.com
 austin.logs.roku.com
 bryan.logs.roku.com
 camden.logs.roku.com
-captive.roku.com
-cigars.roku.com
-cloudservices.roku.com
 configsvc.cs.roku.com
 cooper.logs.roku.com
 customer-feedbacks.web.roku.com
 digdug-g2.logs.roku.com
 digdug.logs.roku.com
-display.ravm.tv
 esp.logs.roku.com
 giga.logs.roku.com
 gilbert.logs.roku.com
@@ -25,7 +18,6 @@ identity-dev.ads.roku.com
 identity.ads.roku.com
 keysvc.cs.roku.com
 lagrange.logs.roku.com
-lat-services.api.data.roku.com
 liberty.logs.roku.com
 littlefield.logs.roku.com
 logs.roku.com
@@ -37,13 +29,8 @@ navigation.sr.roku.com
 p.ads.roku.com
 paolo.logs.roku.com
 prod.mobile.roku.com
-raps-perf.ravm.tv
-raps.ravm.tv
-ravm.tv
 richmond.logs.roku.com
-rokutime.com
 rollingwood.logs.roku.com
-rxr.ravm.tv
 samples.voice.cti.roku.com
 scribe.logs.roku.com
 sugarland.logs.roku.com
@@ -53,4 +40,3 @@ track.sr.roku.com
 tyler.logs.roku.com
 victoria.logs.roku.com
 windsor.logs.roku.com
-wwwimg.roku.com
